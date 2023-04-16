@@ -10,7 +10,7 @@ The **Brown's Item-Chat Command** Script is a tool that makes it easier for you 
 
 # HOW TO USE:
 
-1. Use Config.lua to Configure the chat command you want to trigger & the item you want to trigger the chat command when used. **Configure up to 50 Items!**
+1. Use Config.lua to Configure the chat command you want to trigger & the item you want to trigger the chat command when used.
 
 # MAKING NEW ITEMS (Ingore this if you already know how to add new items to your server)
 
@@ -23,5 +23,7 @@ The **Brown's Item-Chat Command** Script is a tool that makes it easier for you 
 Framework: **QBCore**
 
 Created by: **Brown Development** 
+
+Modified by: **Lifecore Development**
 
 For Support: https://discord.gg/hTH3qme2Dk
