@@ -1,4 +1,4 @@
-# Brown's Item-Chat Command
+# Brown's Item-Chat Command [QBCore]
 
 The **Brown's Item-Chat Command** Script is a tool that makes it easier for you to make items (custom or vanilla items) execute a "/" chat command when used.
 
