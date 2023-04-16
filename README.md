@@ -6,7 +6,7 @@ The **Brown's Item-Chat Command** Script is a tool that makes it easier for you 
 
 1. Add the script to your server resources
 
-2. ensure brown_item-chat_command in your server.cfg
+2. ensure Browns_Item-Chat_Command in your server.cfg
 
 # HOW TO USE:
 
