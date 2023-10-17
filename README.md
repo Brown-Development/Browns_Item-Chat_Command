@@ -23,6 +23,4 @@ Framework: **QBCore OR ESX**
 
 Created by: **Brown Development** 
 
-Modified by: **Lifecore Development**
-
 For Support: https://discord.gg/dGRHNbX5xc
